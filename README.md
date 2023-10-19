@@ -11,3 +11,5 @@ Sample prompts are in the notebook.
 Increase training data
 
 Deploy the model
+
+Test With other models
